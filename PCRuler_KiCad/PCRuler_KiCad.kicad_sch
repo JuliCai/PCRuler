@@ -6368,7 +6368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "017ee755-8679-49a7-bf1f-57c7f9f6c51d")
-		(property "Reference" "R5"
+		(property "Reference" "R2"
 			(at 241.3 52.0699 0)
 			(effects
 				(font
@@ -6422,7 +6422,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "R5")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -6438,7 +6438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01a3c55e-1af3-4494-85b5-2075cb5b4043")
-		(property "Reference" "D22"
+		(property "Reference" "D24"
 			(at 227.33 144.7098 0)
 			(effects
 				(font
@@ -6498,7 +6498,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D22")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -6514,7 +6514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04622f8c-0db1-4387-9a2b-26ef213c6bbe")
-		(property "Reference" "D10"
+		(property "Reference" "D20"
 			(at 166.37 144.7098 0)
 			(effects
 				(font
@@ -6574,7 +6574,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D10")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -6590,7 +6590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06a29d1a-9f11-46ed-a57a-37b7ebf0ce9a")
-		(property "Reference" "D5"
+		(property "Reference" "D3"
 			(at 151.13 95.1798 0)
 			(effects
 				(font
@@ -6650,7 +6650,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D5")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -6666,7 +6666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "150bac08-9971-4ce8-82e5-01d18f0b3993")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR019"
 			(at 142.24 115.57 0)
 			(effects
 				(font
@@ -6716,7 +6716,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR027")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -6732,7 +6732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15ce8cac-1e05-4e07-9216-2469b65d0bfd")
-		(property "Reference" "R7"
+		(property "Reference" "R6"
 			(at 265.43 71.1199 0)
 			(effects
 				(font
@@ -6786,7 +6786,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "R7")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -6802,7 +6802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b80a744-4f14-4141-8621-51be8774302e")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR02"
 			(at 190.5 34.29 0)
 			(effects
 				(font
@@ -6852,7 +6852,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR018")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -6868,7 +6868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cd33c6a-119b-4901-9657-b09753b1f51a")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR05"
 			(at 110.49 49.53 0)
 			(effects
 				(font
@@ -6918,7 +6918,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR011")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -7013,7 +7013,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "205f4d73-514e-4514-8e0a-3c5cfa4cfa2c")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 219.71 35.5599 0)
 			(effects
 				(font
@@ -7067,7 +7067,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -7083,7 +7083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2194c868-a9f7-4d79-a5da-58ffd288f571")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR027"
 			(at 68.58 151.13 0)
 			(effects
 				(font
@@ -7133,7 +7133,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR08")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -7220,7 +7220,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28b495d6-c8b7-4390-84a5-f99628739b07")
-		(property "Reference" "D19"
+		(property "Reference" "D23"
 			(at 212.09 144.7098 0)
 			(effects
 				(font
@@ -7280,7 +7280,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D19")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -7296,7 +7296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c9b9481-36a9-41ae-b06f-8c903fab8a37")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR020"
 			(at 54.61 118.11 0)
 			(effects
 				(font
@@ -7346,7 +7346,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR06")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -7362,7 +7362,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e4a209d-66da-4002-b9c8-ee273806a1a4")
-		(property "Reference" "D13"
+		(property "Reference" "D21"
 			(at 181.61 144.7098 0)
 			(effects
 				(font
@@ -7422,7 +7422,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D13")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -7438,7 +7438,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36f382b0-914f-415b-9b7a-6c6d939c3872")
-		(property "Reference" "D23"
+		(property "Reference" "D9"
 			(at 242.57 95.1798 0)
 			(effects
 				(font
@@ -7498,7 +7498,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D23")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -7514,7 +7514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37612bdf-57be-4149-ac37-e5f4852b82c3")
-		(property "Reference" "SW3"
+		(property "Reference" "SW2"
 			(at 254 44.4499 90)
 			(effects
 				(font
@@ -7574,7 +7574,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "SW3")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -7590,7 +7590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b0c1c4d-6c9b-4f8d-958a-1d248ac09f96")
-		(property "Reference" "D11"
+		(property "Reference" "D5"
 			(at 181.61 95.1798 0)
 			(effects
 				(font
@@ -7650,7 +7650,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D11")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -7666,7 +7666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d466bae-d7cd-45cb-8903-6ccc5ed69105")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR01"
 			(at 139.7 27.94 0)
 			(effects
 				(font
@@ -7716,7 +7716,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR013")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -7732,7 +7732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4375487c-1b2c-46bd-ab60-8d6eb1362325")
-		(property "Reference" "R6"
+		(property "Reference" "R5"
 			(at 254 62.2299 0)
 			(effects
 				(font
@@ -7786,7 +7786,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "R6")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -7802,7 +7802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b13ccef-8f30-4f6a-8018-7f2d12e4cf46")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 91.44 41.91 0)
 			(effects
 				(font
@@ -7893,7 +7893,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -7985,7 +7985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ee17339-1eb9-4741-a554-bc1ea2a933ae")
-		(property "Reference" "D20"
+		(property "Reference" "D8"
 			(at 227.33 95.1798 0)
 			(effects
 				(font
@@ -8045,7 +8045,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D20")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -8061,7 +8061,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "519c9438-177b-46db-a20a-dbd4251bddcb")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR014"
 			(at 251.46 74.93 0)
 			(effects
 				(font
@@ -8111,7 +8111,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR021")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -8203,7 +8203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ce0fd59-d428-4ff9-b623-b40caa584d1b")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR06"
 			(at 274.32 54.61 0)
 			(effects
 				(font
@@ -8253,7 +8253,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR024")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -8269,7 +8269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d379a0d-720f-45c1-b272-a6873b7c8f72")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR022"
 			(at 152.4 123.19 0)
 			(effects
 				(font
@@ -8319,7 +8319,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR028")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -8335,7 +8335,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "626a619d-82cd-4f86-8e9c-fe2dcb548d1c")
-		(property "Reference" "D7"
+		(property "Reference" "D19"
 			(at 151.13 144.7098 0)
 			(effects
 				(font
@@ -8395,7 +8395,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D7")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -8411,7 +8411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6313afbb-aea4-4ce5-a5d4-066aeaa42765")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR026"
 			(at 22.86 149.86 0)
 			(effects
 				(font
@@ -8461,7 +8461,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR03")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -8477,7 +8477,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63882c47-1e4d-477b-8ce7-35ee5d4bd164")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR015"
 			(at 262.89 83.82 0)
 			(effects
 				(font
@@ -8527,7 +8527,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR023")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -8543,7 +8543,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64817e78-7de1-4dea-ba28-6e6f0d3da220")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR012"
 			(at 149.86 72.39 0)
 			(effects
 				(font
@@ -8593,7 +8593,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR017")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -8609,7 +8609,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6a5f9c09-fddd-49aa-a4a7-8748750f17da")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 217.17 68.5799 0)
 			(effects
 				(font
@@ -8669,7 +8669,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -8685,7 +8685,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6e7b43e6-f81d-4d8b-9cdf-c0bd5ee28f45")
-		(property "Reference" "D18"
+		(property "Reference" "D15"
 			(at 212.09 120.5798 0)
 			(effects
 				(font
@@ -8745,7 +8745,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D18")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -8761,7 +8761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f7e9619-197e-41e2-ab2b-7523e1dbbb5e")
-		(property "Reference" "D3"
+		(property "Reference" "D10"
 			(at 135.89 120.5798 0)
 			(effects
 				(font
@@ -8821,7 +8821,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D3")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -8837,7 +8837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70d09ac7-76b0-4c9c-a362-b7740fd0ecdf")
-		(property "Reference" "D16"
+		(property "Reference" "D22"
 			(at 196.85 144.7098 0)
 			(effects
 				(font
@@ -8897,7 +8897,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D16")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -8913,7 +8913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71892b76-1257-41b1-9954-2bab2bf9cb8c")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR028"
 			(at 53.34 167.64 0)
 			(effects
 				(font
@@ -8963,7 +8963,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR05")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -8979,7 +8979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74508c94-0f94-4293-a441-26f40e2af9ca")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR016"
 			(at 190.5 87.63 0)
 			(effects
 				(font
@@ -9029,7 +9029,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR019")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -9045,7 +9045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74f01e11-e9d8-4582-96de-285b6e4ffbc2")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR029"
 			(at 140.97 168.91 0)
 			(effects
 				(font
@@ -9095,7 +9095,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR014")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -9111,7 +9111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76501344-459f-4a19-bd03-b829d3d56597")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR025"
 			(at 144.78 147.32 0)
 			(effects
 				(font
@@ -9161,7 +9161,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR029")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -9177,7 +9177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79d5877a-e614-4631-bec8-a253202d15a3")
-		(property "Reference" "D17"
+		(property "Reference" "D7"
 			(at 212.09 95.1798 0)
 			(effects
 				(font
@@ -9237,7 +9237,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D17")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -9253,7 +9253,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b8cbcf2-8a29-45e6-981d-1e394039e409")
-		(property "Reference" "D21"
+		(property "Reference" "D16"
 			(at 227.33 120.5798 0)
 			(effects
 				(font
@@ -9313,7 +9313,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D21")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -9329,7 +9329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e19b81b-3e73-4b0f-bd90-7f518d37f3be")
-		(property "Reference" "D15"
+		(property "Reference" "D14"
 			(at 196.85 120.5798 0)
 			(effects
 				(font
@@ -9389,7 +9389,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D15")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -9405,7 +9405,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ecb56e0-f0d1-408a-a02b-68436dfc458e")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR09"
 			(at 238.76 64.77 0)
 			(effects
 				(font
@@ -9455,7 +9455,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR020")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -9547,7 +9547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "827b765f-739b-4f7c-99b3-c0384c09da22")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR024"
 			(at 139.7 140.97 0)
 			(effects
 				(font
@@ -9597,7 +9597,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR026")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -9683,7 +9683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "856a97f6-0171-4049-9405-2f277532e49e")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR018"
 			(at 128.27 92.71 0)
 			(effects
 				(font
@@ -9733,7 +9733,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR012")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -9749,7 +9749,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8dfbfb97-42d6-46f5-b1a7-365b1f8b3457")
-		(property "Reference" "D9"
+		(property "Reference" "D12"
 			(at 166.37 120.5798 0)
 			(effects
 				(font
@@ -9809,7 +9809,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D9")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -9825,7 +9825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92c50235-8e67-451e-ae99-00f439065f1d")
-		(property "Reference" "R3"
+		(property "Reference" "R1"
 			(at 146.05 20.32 90)
 			(effects
 				(font
@@ -9877,7 +9877,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "R3")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -9893,7 +9893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9983e919-5f4f-4d46-949e-f5195d1ac415")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR010"
 			(at 285.75 63.5 0)
 			(effects
 				(font
@@ -9943,7 +9943,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR025")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -9959,7 +9959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99c18bc6-11a2-445c-8738-9a8396df9364")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR023"
 			(at 48.26 140.97 0)
 			(effects
 				(font
@@ -10009,7 +10009,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR04")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -10025,7 +10025,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c5b048c-66db-482d-949f-79337db98ce4")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 192.6433 27.94 0)
 			(effects
 				(font
@@ -10232,7 +10232,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "U3")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -10248,7 +10248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e58f3cc-3860-424b-b5bb-4f0e79831e57")
-		(property "Reference" "SW4"
+		(property "Reference" "SW3"
 			(at 266.7 55.8799 90)
 			(effects
 				(font
@@ -10308,7 +10308,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "SW4")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -10324,7 +10324,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2f7f60f-da9f-406f-9851-08024fba64f7")
-		(property "Reference" "R4"
+		(property "Reference" "R3"
 			(at 148.59 48.26 90)
 			(effects
 				(font
@@ -10376,7 +10376,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "R4")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -10392,7 +10392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a51d9877-0cc4-49cf-8ab1-85fa3acea6cc")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR021"
 			(at 76.2 121.92 0)
 			(effects
 				(font
@@ -10442,7 +10442,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR09")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -10458,7 +10458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5c4fbeb-47fa-44fc-8c8d-0b0af5bd6e38")
-		(property "Reference" "R1"
+		(property "Reference" "R7"
 			(at 41.91 125.7299 0)
 			(effects
 				(font
@@ -10512,7 +10512,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "R1")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -10528,7 +10528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a879b01f-5828-418b-ab69-049a2641bef7")
-		(property "Reference" "D4"
+		(property "Reference" "D18"
 			(at 135.89 144.7098 0)
 			(effects
 				(font
@@ -10588,7 +10588,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D4")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -10604,7 +10604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aab6cde3-9fed-45d7-8428-d4d4e3bce86b")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR011"
 			(at 38.1 64.77 0)
 			(effects
 				(font
@@ -10654,7 +10654,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR01")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -10670,7 +10670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aeaa54f0-7264-448a-b199-b577314af8a4")
-		(property "Reference" "D12"
+		(property "Reference" "D13"
 			(at 181.61 120.5798 0)
 			(effects
 				(font
@@ -10730,7 +10730,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D12")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -10746,7 +10746,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b81563b2-b106-4a3b-98e3-eba7f4b0eac6")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR04"
 			(at 261.62 44.45 0)
 			(effects
 				(font
@@ -10796,7 +10796,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR022")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -10812,7 +10812,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c09ff5e8-3366-4894-9f6c-0db23b616255")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR013"
 			(at 38.1 74.93 0)
 			(effects
 				(font
@@ -10862,7 +10862,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR02")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -10878,7 +10878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c369d561-560f-4576-b61a-e9bc856cce78")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR017"
 			(at 87.63 93.98 0)
 			(effects
 				(font
@@ -10928,7 +10928,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR010")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -10944,7 +10944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4d55ebc-f220-44f2-8d3f-ec76bd9c451e")
-		(property "Reference" "D6"
+		(property "Reference" "D11"
 			(at 151.13 120.5798 0)
 			(effects
 				(font
@@ -11004,7 +11004,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D6")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -11020,7 +11020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbbcaef9-d96c-426f-8b6b-743eeb80b2b2")
-		(property "Reference" "D24"
+		(property "Reference" "D17"
 			(at 242.57 120.5798 0)
 			(effects
 				(font
@@ -11080,7 +11080,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D24")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -11177,7 +11177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce10cd71-e315-4838-985b-17d7ab5abf56")
-		(property "Reference" "D14"
+		(property "Reference" "D6"
 			(at 196.85 95.1798 0)
 			(effects
 				(font
@@ -11237,7 +11237,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D14")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -11329,7 +11329,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3967e63-ea5a-488c-9cea-6e578b68c065")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR03"
 			(at 147.32 44.45 0)
 			(effects
 				(font
@@ -11379,7 +11379,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR016")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -11395,7 +11395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da78267e-2031-4cde-a11b-a2abbcf8d74e")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR07"
 			(at 142.24 55.88 0)
 			(effects
 				(font
@@ -11445,7 +11445,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR015")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -11461,7 +11461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df22cedf-4ae0-4e08-81a7-243b6a5c5a5f")
-		(property "Reference" "D8"
+		(property "Reference" "D4"
 			(at 166.37 95.1798 0)
 			(effects
 				(font
@@ -11521,7 +11521,7 @@
 		(instances
 			(project "PCRuler_KiCad"
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "D8")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -11537,7 +11537,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e568aa3b-524e-4be4-92f4-8297bff7999c")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 60.96 55.8799 0)
 			(effects
 				(font
@@ -11591,7 +11591,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -11607,7 +11607,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e61d159f-4ade-4ee8-af86-4973682dfee2")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 58.42 57.15 0)
 			(effects
 				(font
@@ -11657,7 +11657,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -11673,7 +11673,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f90b0366-0362-4378-88eb-ed9581119652")
-		(property "Reference" "SW2"
+		(property "Reference" "SW4"
 			(at 163.83 62.2299 90)
 			(effects
 				(font
@@ -11733,7 +11733,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "SW2")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -11749,7 +11749,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb1847a7-96d3-4e86-8305-84ef8711b6df")
-		(property "Reference" "U1"
+		(property "Reference" "U3"
 			(at 53.34 144.78 0)
 			(effects
 				(font
@@ -11805,7 +11805,7 @@
 		(instances
 			(project ""
 				(path "/1590a776-6e40-48d0-87ae-82012ff35e93"
-					(reference "U1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
